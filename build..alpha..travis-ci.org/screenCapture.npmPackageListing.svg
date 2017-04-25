@@ -1,0 +1,56 @@
+<svg height="846" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="846" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-25 07:48:34 +0000    67489 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 07:48:34 +0000     2093 bytes  generators/all/index.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 07:48:34 +0000    12436 bytes  generators/app/index.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 07:48:34 +0000    13975 bytes  generators/app/templates/Gruntfile.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 07:48:34 +0000      498 bytes  generators/app/templates/_bower.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 07:48:34 +0000     1362 bytes  generators/app/templates/_package.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 07:48:34 +0000      202 bytes  generators/app/templates/app.coffee</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 07:48:34 +0000      296 bytes  generators/app/templates/app.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 07:48:34 +0000     3411 bytes  generators/app/templates/app/404.html</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 07:48:34 +0000     4286 bytes  generators/app/templates/app/favicon.ico</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 07:48:34 +0000       41 bytes  generators/app/templates/app/robots.txt</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 07:48:34 +0000       53 bytes  generators/app/templates/bowerrc</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 07:48:34 +0000      415 bytes  generators/app/templates/editorconfig</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 07:48:34 +0000       11 bytes  generators/app/templates/gitattributes</tspan>
+<tspan x="10" y="250"> 14.  2017-04-25 07:48:34 +0000      100 bytes  generators/app/templates/gitignore</tspan>
+<tspan x="10" y="266"> 15.  2017-04-25 07:48:34 +0000     4185 bytes  generators/app/templates/index.html</tspan>
+<tspan x="10" y="282"> 16.  2017-04-25 07:48:34 +0000      655 bytes  generators/app/templates/jshintrc</tspan>
+<tspan x="10" y="298"> 17.  2017-04-25 07:48:34 +0000     1646 bytes  generators/app/templates/main.scss</tspan>
+<tspan x="10" y="314"> 18.  2017-04-25 07:48:34 +0000      751 bytes  generators/app/templates/requirejs_app.coffee</tspan>
+<tspan x="10" y="330"> 19.  2017-04-25 07:48:34 +0000      797 bytes  generators/app/templates/requirejs_app.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-25 07:48:34 +0000     1019 bytes  generators/collection/index.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-25 07:48:34 +0000     1268 bytes  generators/model/index.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-25 07:48:34 +0000      980 bytes  generators/router/index.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-25 07:48:34 +0000      151 bytes  generators/templates/coffeescript/collection.cof\</tspan>
+<tspan x="10" y="410">fee</tspan>
+<tspan x="10" y="426"> 24.  2017-04-25 07:48:34 +0000      215 bytes  generators/templates/coffeescript/model.coffee</tspan>
+<tspan x="10" y="442"> 25.  2017-04-25 07:48:34 +0000      211 bytes  generators/templates/coffeescript/requirejs/coll\</tspan>
+<tspan x="10" y="458">ection.coffee</tspan>
+<tspan x="10" y="474"> 26.  2017-04-25 07:48:34 +0000      266 bytes  generators/templates/coffeescript/requirejs/mode\</tspan>
+<tspan x="10" y="490">l.coffee</tspan>
+<tspan x="10" y="506"> 27.  2017-04-25 07:48:34 +0000      109 bytes  generators/templates/coffeescript/requirejs/rout\</tspan>
+<tspan x="10" y="522">er.coffee</tspan>
+<tspan x="10" y="538"> 28.  2017-04-25 07:48:34 +0000      376 bytes  generators/templates/coffeescript/requirejs/view\</tspan>
+<tspan x="10" y="554">.coffee</tspan>
+<tspan x="10" y="570"> 29.  2017-04-25 07:48:34 +0000       90 bytes  generators/templates/coffeescript/router.coffee</tspan>
+<tspan x="10" y="586"> 30.  2017-04-25 07:48:34 +0000      300 bytes  generators/templates/coffeescript/view.coffee</tspan>
+<tspan x="10" y="602"> 31.  2017-04-25 07:48:34 +0000       27 bytes  generators/templates/coffeescript/view.ejs</tspan>
+<tspan x="10" y="618"> 32.  2017-04-25 07:48:34 +0000      300 bytes  generators/templates/collection.js</tspan>
+<tspan x="10" y="634"> 33.  2017-04-25 07:48:34 +0000      419 bytes  generators/templates/model.js</tspan>
+<tspan x="10" y="650"> 34.  2017-04-25 07:48:34 +0000      299 bytes  generators/templates/requirejs/collection.js</tspan>
+<tspan x="10" y="666"> 35.  2017-04-25 07:48:34 +0000      394 bytes  generators/templates/requirejs/model.js</tspan>
+<tspan x="10" y="682"> 36.  2017-04-25 07:48:34 +0000      219 bytes  generators/templates/requirejs/router.js</tspan>
+<tspan x="10" y="698"> 37.  2017-04-25 07:48:34 +0000      524 bytes  generators/templates/requirejs/view.js</tspan>
+<tspan x="10" y="714"> 38.  2017-04-25 07:48:34 +0000      228 bytes  generators/templates/router.js</tspan>
+<tspan x="10" y="730"> 39.  2017-04-25 07:48:34 +0000       27 bytes  generators/templates/view.ejs</tspan>
+<tspan x="10" y="746"> 40.  2017-04-25 07:48:34 +0000      519 bytes  generators/templates/view.js</tspan>
+<tspan x="10" y="762"> 41.  2017-04-25 07:48:34 +0000     1559 bytes  generators/view/index.js</tspan>
+<tspan x="10" y="778"> 42.  2017-04-25 07:48:34 +0000     3453 bytes  package.json</tspan>
+<tspan x="10" y="794"> 43.  2017-04-25 07:48:34 +0000     3576 bytes  readme.md</tspan>
+<tspan x="10" y="810"> 44.  2017-04-25 07:48:34 +0000     2571 bytes  script-base.js</tspan>
+<tspan x="10" y="826"> 45.  2017-04-25 07:48:34 +0000     1176 bytes  util.js</tspan>
+</text>
+</svg>
